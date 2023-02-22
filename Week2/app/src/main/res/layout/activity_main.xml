@@ -13,13 +13,13 @@
         android:id= "@+id/usernametxt"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:hint="silakan masukan passwoard anda"/>
+        android:hint="silakan masukan passwoad"/>
 
     <EditText
         android:id="@+id/passwordtxt"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:hint="silakan masukan passwoard anda"
+        android:hint="silakan masukan passwoard "
         android:inputType="textPassword" />
 
     <Button
